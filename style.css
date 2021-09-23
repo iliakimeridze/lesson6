@@ -24,7 +24,7 @@
     position: absolute;
     left: 240px;
     top:70px;
-    font-family:"helveticaneue-bold"
+    font-family:'helveticaneue-bold',cursive;
 }
 .relative1{
     /* position: relative; */
@@ -61,7 +61,7 @@
     height: 65px;
     bottom: 40px;
     left: 40px;
-    font-family:"helveticaneue-regular"
+    font-family:'helveticaneue-regular',cursive;
     /* border: 3px solid red; */
 }
 .relative2{
@@ -100,7 +100,7 @@
     height: 65px;
     bottom: 60px;
     left: 60px;
-    font-family:"helveticaneue-bold"
+    font-family:'helveticaneue-bold',cursive;
 }
 .relative3{
     /* position: relative; */
@@ -137,7 +137,7 @@
     height: 65px;
     bottom: 40px;
     left: 40px;
-    font-family:"helveticaneue-regular"
+    font-family:'helveticaneue-regular',cursive;
     /* border: 3px solid red; */
 }
 .relative4{
@@ -175,7 +175,7 @@
     height: 65px;
     bottom: 40px;
     left: 40px;
-    font-family:"helveticaneue-regular"
+    font-family:'helveticaneue-regular',cursive;
     /* border: 3px solid red; */
 }
 .other-projects{
@@ -184,6 +184,6 @@
     left: 1519px;
     top: 678px;
     color: #171717;
-    font-family:"helveticaneue-bold"
+    font-family:'helveticaneue-bold',cursive;
     /* border: 3px solid black; */
 }
