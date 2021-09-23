@@ -1,6 +1,6 @@
 @font-face{
     font-family:"helveticaneue-bold";
-    src:url("./font/Helvetica Neu Bold.ttf") format("woff"),
+    src:url("./font/Helvetica Neu Bold.ttf") format("truetype"),
 }
 @font-face{
     font-family:"helveticaneue-regular";
